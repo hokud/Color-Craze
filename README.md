@@ -1,4 +1,12 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/flyphEq-)
 
-## Read Me:
-Run the run_screens.py file to start the game.  You can either then click the start button or the exit button.  If you click the exit button the game quits.  If you click the start button it takes you to the game screen.  On the game screen, you can move the player (colored circle at the bottom of the screen) either up or down with the up or down key, respectively.  There are also 3 obstacles that rotate (the colors of the obstacles move in order in a clockwise fashion).  The game's objective is for the player to reach the top of the screen by moving through the color of each obstacle that corresponds with the player's color.  If the player reaches the top of the screen, the game takes you to the finished screen.  If the player "crashes" into an obstacle (ie. the player goes through the color of an obstacle that does not correspond with the player's color), the game takes you to a dead screen.  At these screens, you can either restart or exit the game.
+# Color Craze!
+
+## Credits
+Tara Ramanathan, Charlize Briggs, and Nahokulani Dennis.
+
+## How to Play
+1. Run the run_screens.py file in a text editor to launch
+2. Use up and down keys on your computer to control the player (the small ball at the bottom of the screen)
+3. Try to make it through every obstacle by passing through only the block of color corresponding with the player's color
+4. Enjoy!
